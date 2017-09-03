@@ -1,3 +1,3 @@
 # Machine Learning
 
-Currently contains Udacity's Machine Learning Engineer Nanodegree projects.
+Currently contains my completed Machine Learning Engineer Nanodegree projects through Udacity.
